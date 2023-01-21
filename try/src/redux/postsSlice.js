@@ -19,7 +19,7 @@ const postSlice = createSlice({
         error:null 
     },
     reducers: {
-      // standard reducer logic, with auto-generated action types per reducer
+     
     },
     extraReducers: (builder) => {
       
